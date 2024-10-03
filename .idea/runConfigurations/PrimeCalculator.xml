@@ -3,6 +3,7 @@
     <option name="MAIN_CLASS_NAME" value="PrimeCalculator" />
     <module name="PerformanceInvestigation.main" />
     <option name="PROGRAM_PARAMETERS" value="100" />
+    <option name="VM_PARAMETERS" value="-Xms512m -Xmx6G -Xss512k" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
